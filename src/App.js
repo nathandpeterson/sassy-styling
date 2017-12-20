@@ -40,42 +40,42 @@ class App extends Component {
                   What is the difference between a <code>.sass</code> and <code>.scss</code> file?
                   <details>
                     <summary>Explanation</summary>
-                    <p class="explanation">Write your explanation here!</p>
+                    <p className="explanation">Write your explanation here!</p>
                   </details>
                 </li>
                 <li>
                   How does nesting work with Sass?
                   <details>
                     <summary>Explanation</summary>
-                    <p class="explanation">Write your explanation here!</p>
+                    <p className="explanation">Write your explanation here!</p>
                   </details>
                 </li>
                 <li>
                   How does declaring variables work with Sass?
                   <details>
                     <summary>Explanation</summary>
-                    <p class="explanation">Write your explanation here!</p>
+                    <p className="explanation">Write your explanation here!</p>
                   </details>
                 </li>
                 <li>
                   How must your file name change in order for it to be used as a partial?
                   <details>
                     <summary>Explanation</summary>
-                    <p class="explanation">Write your explanation here!</p>
+                    <p className="explanation">Write your explanation here!</p>
                   </details>
                 </li>
                 <li>
                   How can you override the original Bootstrap colors?
                   <details>
                     <summary>Explanation</summary>
-                    <p class="explanation">Write your explanation here!</p>
+                    <p className="explanation">Write your explanation here!</p>
                   </details>
                 </li>
                 <li>
                   How can you utilize Bootstrap colors in your <code>.scss</code> files?
                   <details>
                     <summary>Explanation</summary>
-                    <p class="explanation">Write your explanation here!</p>
+                    <p className="explanation">Write your explanation here!</p>
                   </details>
                 </li>
               </ol>

@@ -1,0 +1,12 @@
+ul {
+    background-color: green;
+}
+
+li {
+    font-size: 2rem;
+}
+
+.container {
+    color: yellow;
+    background: gray;
+}
